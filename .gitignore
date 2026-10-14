@@ -1,0 +1,14 @@
+# Archivos que genera Python al ejecutar
+__pycache__/
+*.pyc
+
+# Entorno virtual
+.venv/
+venv/
+
+# Archivos que crean los ejercicios al ejecutarse
+curso_consola/archivos/notas.txt
+curso_consola/archivos/resumen.txt
+curso_consola/conexion/prueba.db
+curso_web/uploads/
+proyecto_final/inventario.json

@@ -1,0 +1,6 @@
+# Dependencias del módulo web. Se instalan con:
+#   pip install -r requirements.txt
+#
+# Es el equivalente de composer.json (PHP), package.json (JS) y de las
+# <PackageReference> del .csproj (C#).
+flask>=3.0
